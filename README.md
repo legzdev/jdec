@@ -1,6 +1,6 @@
 # JDec
 
-**A simple CLI tool written in Go to decode JDownloader encrypted links.*
+**A simple CLI tool written in Go to decode JDownloader encrypted links.**
 
 ## 📦 Installation
 ```shell
